@@ -1,0 +1,31 @@
+{
+    "recommendations": [
+        "formulahendry.auto-rename-tag",
+        "oderwat.indent-rainbow",
+        "genieai.chatgpt-vscode",
+        "streetsidesoftware.code-spell-checker",
+        "yamajyn.commandlist",
+        "nemesv.copy-file-name",
+        "pranaygp.vscode-css-peek",
+        "ms-azuretools.vscode-docker",
+        "janisdd.vscode-edit-csv",
+        "usernamehw.errorlens",
+        "mhutchie.git-graph",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "ecmel.vscode-html-css",
+        "ms-ceintl.vscode-language-pack-ja",
+        "emilast.logfilehighlighter",
+        "pkief.material-icon-theme",
+        "ionutvmi.path-autocomplete",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode",
+        "alefragnani.project-manager",
+        "rebornix.ruby",
+        "wscats.search",
+        "wingrunr21.vscode-ruby",
+        "mosapride.zenkaku",
+        "ics.japanese-proofreading",
+        "github.copilot"
+    ]
+}
